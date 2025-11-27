@@ -5,6 +5,10 @@ Jessica is a list of android apps for multiple purposes.
 ## ⚠️ Note ⚠️
 Some of these lists do contain apps that seem misleading given the category but they do work together.
 
+## App Stores
+* F-Droid (Open source apps)
+* Aurora Store (Gplay middle-man)
+
 ## Console Apps
 * Termux (Terminal emulator)
 
