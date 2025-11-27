@@ -5,7 +5,7 @@ Jessica is a list of android apps for multiple purposes.
 # ⚠️ Note ⚠️
 Some of these lists do contain apps that seem misleading given the category but they do work together.
 
-Location Changing Tools:
+# Location Changing Tools:
 * More Locale 2 (Change your locale)
 * Mullvad VPN (Logless VPN)
 * InviZible Pro (Firewall + VPN)
@@ -13,7 +13,7 @@ Location Changing Tools:
 * Mock Traffic (Mocks traffic)
 * Orbot (Tor based VPN)
 
-Wi-Fi Research Tools:
+# Wi-Fi Research Tools:
 * OONI Probe (Checks what is blocked on your nwtwork)
 * Ning (Scans Wi-Fi to see what devices are active)
 * Wi-Fi Info (Displays information on a Wi-Fi connevtion.
@@ -21,7 +21,7 @@ Wi-Fi Research Tools:
 * Vernet (Netwrok tools)
 * Router Keygen YoloSec (Select router key generator)
 
-SDR Research Tools:
+# SDR Research Tools:
 * Rtl-sdr driver (A driver that enables Rtl-sdr usage on a phone)
 * SDR++ (Analtzes RF using Rtl-sdr driver)
 * RF Anaylyzer (FOSS) (Analyzes RF using Rtl-sdr driver)
@@ -32,7 +32,7 @@ Flooders:
 * Bluetooth LE Spam (BLE spam tool)
 * CallFlood (Call flooder)
 
-System Apps:
+# System Apps:
 * Privacy Flip (Device privacy manager)
 * Permissions Summary (Lists permissions beibg used by apps)
 * PCAPdroid (Analyze traffic going in and out of your phone)
@@ -41,7 +41,7 @@ System Apps:
 * Intruder Selfie (Takes a selfie each time phone is unlocked)
 * Hail (App Freezer)
 
-Phone Tools:
+# Phone Tools:
 * slydial (Listen to voicemails)
 * SpoofCard (Spoof Phone Numbers)
 * Call Limiter (Define a time-limit for calls)
@@ -52,13 +52,13 @@ VOIP Phones:
 * Linphone (VOIP phone)
 * baresip+ (VOIP phone)
 
-Emergency Tools:
+# Emergency Tools:
 * Igatha (SOS)
 * Stay Put (Alarms when phone is unplugged)
 * FOSS Warn (Receive alerts from out of your region)
 * LavSeeker (Toilet finder)
 
-Communication:
+# Communication:
 * Anonymous Messenger (Tor based messaging app)
 * Session F-Droid (A "new breed" encrypted messenger)
 * Molly;(A Signal fork that does not rely on gapps)
@@ -66,7 +66,7 @@ Communication:
 * CryptX (Cryptography tool-set)
 * OpenKeychain (Encryption)
 
-NFC Research Tools:
+# NFC Research Tools:
 * NFsee (Read NFC chips)
 * NFCGate (A NFC research tool-kit)
 * NFC Reader (Reads NFC chips)
@@ -76,47 +76,47 @@ NFC Research Tools:
 * MFC Balance (Checks compatible NFC chips for balance)
 * NFC Tools (NFC based tools)
 
-Cell Tools:
+# Cell Tools:
 * Privacy Cell (Alerts you if your cell network is vulnerable)
 * Tower Collector (Collects cell tower data)
 * LTE Discovery (Cell tower discovery tool)
 * Traffic Light (Network usage logger)
 
-Intel Gathering:
+# Intel Gathering:
 * MakeACopy (Document scanner)
 * FadCam (Background recorder)
 * Safe Notes (Encrypted notes)
 * Geotag video camera (Camera with map displayed)
 * SuperX (Universal video downloader)
 
-Intel Management:
+# Intel Management:
 * Momento Database (Create endless databases)
 * Blink Comparison (Check if images hage been tampered with)
 * Website Monitor (A website monitor)
 * Photok (Encrypted photo vault)
 
-Anti-Surveillance:
+# Anti-Surveillance:
 * PilferShush Jammer (Prevents third party listening)
 * Skewy (Prevents third party listening)
 * Silent SMS Detector (Detects silent sms)
 
-Surveillance:
+# Surveillance:
 * Sentinel Lens (Telegram based surveillance)
 * Motion Eye (An interfect to interact with MotionEye servers)
 * Close Circuit (PAN surveillance system)
 * Ojo RTSP IP Camera viewer (IP camera viewer)
 
-News:
+# News:
 * Feeder (Notifies you with RSS feeds)
 * Digilog TV (News from around the world)
 
-Remote Toolsets:
+# Remote Toolsets:
 * Flipper (Flipper zero companion app)
 * WHID Injector (WHID injector companion app)
 * TV KILL (Shuts off TV's with phones that have IR blaster)
 * SupIR (Controls TV's with IR blaster)
 
-Reverse Engineering Tools:
+# Reverse Engineering Tools:
 * RevEngi (RE tools)
 * APK Explorer (Decompiles APK files)
 * Tool Shells (APK tools)
