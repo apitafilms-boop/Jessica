@@ -17,7 +17,7 @@ Some of these lists do contain apps that seem misleading given the category but 
 * Orbot (Tor based VPN)
 
 ## Wi-Fi Research Tools:
-* OONI Probe (Checks what is blocked on your nwtwork)
+* OONI Probe (Checks what is blocked on your network)
 * Ning (Scans Wi-Fi to see what devices are active)
 * Wi-Fi Info (Displays information on a Wi-Fi connevtion.
 * WifiAnalyzer (Wi-Fi analyzer)
@@ -25,7 +25,7 @@ Some of these lists do contain apps that seem misleading given the category but 
 * Router Keygen YoloSec (Select router key generator)
 
 ## SDR Research Tools:
-* Rtl-sdr driver (A driver that enables Rtl-sdr usage on a phone)
+* Rtl-sdr driver (A driver that enables Rtl-sdr usage on your phone)
 * SDR++ (Analyzes RF using Rtl-sdr driver)
 * RF Anaylyzer (FOSS) (Analyzes RF using Rtl-sdr driver)
 
@@ -37,11 +37,11 @@ Some of these lists do contain apps that seem misleading given the category but 
 
 ## System Apps:
 * Privacy Flip (Device privacy manager)
-* Permissions Summary (Lists permissions beibg used by apps)
+* Permissions Summary (Lists permissions being used by apps)
 * PCAPdroid (Analyze traffic going in and out of your phone)
 * Ripple (A panic app)
 * OwnDroid (Device Owner Activater)
-* Intruder Selfie (Takes a selfie each time phone is unlocked)
+* Intruder Selfie (Takes a selfie each time your phone is unlocked)
 * Hail (App Freezer / Disabler)
 
 ## Phone Tools:
@@ -57,14 +57,14 @@ Some of these lists do contain apps that seem misleading given the category but 
 
 ## Emergency Tools:
 * Igatha (SOS)
-* Stay Put (Alarms when phone is unplugged)
+* Stay Put (Sets off alarm when your phone is unplugged)
 * FOSS Warn (Receive alerts from out of your region)
 * LavSeeker (Toilet finder)
 
 ## Communication:
 * Anonymous Messenger (Tor based messaging app)
 * Session F-Droid (A "new breed" encrypted messenger)
-* Molly;(A Signal fork that does not rely on gapps)
+* Molly (A Signal fork that does not rely on gapps)
 * KryptEY (Secure communications keyboard)
 * CryptX (Cryptography tool-set)
 * OpenKeychain (Encryption)
@@ -94,7 +94,7 @@ Some of these lists do contain apps that seem misleading given the category but 
 
 ## Intel Management:
 * Momento Database (Create endless databases)
-* Blink Comparison (Check if images hage been tampered with)
+* Blink Comparison (Check if images have been tampered with)
 * Website Monitor (A website monitor)
 * Photok (Encrypted photo vault)
 
@@ -105,13 +105,13 @@ Some of these lists do contain apps that seem misleading given the category but 
 
 ## Surveillance:
 * Sentinel Lens (Telegram based surveillance)
-* Motion Eye (An interfect to interact with MotionEye servers)
+* Motion Eye (An interface to interact with MotionEye servers)
 * Close Circuit (PAN surveillance system)
-* Ojo RTSP IP Camera viewer (IP camera viewer)
+* Ojo RTSP IP Camera viewer (RTSP IP camera viewer)
 
 ## News:
 * Feeder (Notifies you with RSS feeds)
-* Digilog TV (News from around the world)
+* Digilog TV (IPTV News from around the world)
 
 ## Remote Toolsets:
 * Flipper (Flipper zero companion app)
