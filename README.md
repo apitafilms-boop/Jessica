@@ -8,6 +8,7 @@ Some of these lists do contain apps that seem misleading given the category but 
 ## App Stores
 * F-Droid (Open source apps)
 * Aurora Store (Gplay middle-man)
+* KingInstaller (Installs apps as Gplay)
 
 ## Console Apps
 * Termux (Terminal emulator)
