@@ -6,7 +6,7 @@ Jessica is a list of android apps for multiple purposes.
 Some of these lists do contain apps that seem misleading given the category but they do work together.
 
 ## Console Apps
-* Termux
+* Termux (Terminal emulator)
 
 ## Location Changing Tools:
 * More Locale 2 (Change your locale)
