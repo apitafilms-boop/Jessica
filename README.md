@@ -5,6 +5,9 @@ Jessica is a list of android apps for multiple purposes.
 ## ⚠️ Note ⚠️
 Some of these lists do contain apps that seem misleading given the category but they do work together.
 
+## Console Apps
+* Termux
+
 ## Location Changing Tools:
 * More Locale 2 (Change your locale)
 * Mullvad VPN (Logless VPN)
@@ -23,12 +26,12 @@ Some of these lists do contain apps that seem misleading given the category but 
 
 ## SDR Research Tools:
 * Rtl-sdr driver (A driver that enables Rtl-sdr usage on a phone)
-* SDR++ (Analtzes RF using Rtl-sdr driver)
+* SDR++ (Analyzes RF using Rtl-sdr driver)
 * RF Anaylyzer (FOSS) (Analyzes RF using Rtl-sdr driver)
 
 ## Flooders:
 * Tsunami (Sends X amount of messages to indian numbers)
-* SMSSpammer (SMS spammer(
+* SMSSpammer (SMS spammer)
 * Bluetooth LE Spam (BLE spam tool)
 * CallFlood (Call flooder)
 
@@ -39,7 +42,7 @@ Some of these lists do contain apps that seem misleading given the category but 
 * Ripple (A panic app)
 * OwnDroid (Device Owner Activater)
 * Intruder Selfie (Takes a selfie each time phone is unlocked)
-* Hail (App Freezer)
+* Hail (App Freezer / Disabler)
 
 ## Phone Tools:
 * slydial (Listen to voicemails)
