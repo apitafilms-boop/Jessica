@@ -1,4 +1,5 @@
-# 🧑‍🦰 Jessica 🧑‍🦰
+<img width="auto" height="auto" alt="1000011844" src="https://github.com/user-attachments/assets/a695c959-a97a-4250-a209-cac13e16e02e" />
+
 Jessica is a list of android apps for multiple purposes.
 
 # ⚠️ Note ⚠️
