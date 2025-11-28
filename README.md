@@ -13,7 +13,7 @@ Some of these lists do contain apps that seem misleading given the category but 
 ## Console Apps
 * Termux (Terminal emulator)
 * Shizuku (Alternative-to-root app used to gain higher privledges)
-* ashell you (direct adb shell)
+* aShell You (direct adb shell)
 
 ## Location Changing Tools:
 * More Locale 2 (Change your locale)
